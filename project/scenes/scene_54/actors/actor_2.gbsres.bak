@@ -119,7 +119,7 @@
                   "command": "EVENT_TEXT",
                   "args": {
                     "text": [
-                      "Currently broken:\n$18$/22."
+                      "Currently broken:\n$18$/20."
                     ],
                     "__section": "text",
                     "avatarId": "",
