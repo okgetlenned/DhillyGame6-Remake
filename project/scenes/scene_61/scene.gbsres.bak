@@ -48,7 +48,7 @@
             "command": "EVENT_TEXT",
             "args": {
               "text": [
-                "Hello. I am the famous\nconspiracy theorist\nBob.",
+                "Hello. I am the\nfamous conspiracy\ntheorist Bob.",
                 "You!!!!!! You're that\nEVIL Square, aren't\nyou?"
               ],
               "avatarId": "358ddbc9-71a4-443e-90b1-a6535daf49f1"

@@ -1,0 +1,49 @@
+{
+  "_resourceType": "scene",
+  "id": "a6519015-cb6a-4166-82dc-8092571587f6",
+  "_index": 104,
+  "name": "Scene 105",
+  "backgroundId": "a9c79bb7-622d-4d24-8681-34bfe261d14f",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_105",
+  "x": 16328,
+  "y": 1216,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "If you're reading this,\nit means you've reached\nthe very rare special\nending!",
+          "DM \"lenenjoyer\" on\nDiscord for something\ncool."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "12bd33f0-3917-4554-8af6-3543f1f7cc8d"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}
