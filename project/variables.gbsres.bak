@@ -137,14 +137,14 @@
       "symbol": "var_law_15"
     },
     {
-      "id": "8127fceb-e646-4852-a4df-48ee324d09de__L0",
-      "name": "Local 0",
-      "symbol": "var_local_0"
-    },
-    {
       "id": "27",
       "name": "rate limit breathing",
       "symbol": "var_rate_limit_breathing"
+    },
+    {
+      "id": "8127fceb-e646-4852-a4df-48ee324d09de__L0",
+      "name": "Local 0",
+      "symbol": "var_local_0"
     }
   ]
 }

@@ -304,7 +304,7 @@
             "command": "EVENT_TEXT",
             "args": {
               "text": [
-                "Square has $21$ health."
+                "Square has $23$ health."
               ],
               "avatarId": ""
             },

@@ -396,24 +396,6 @@
         "time": 0.5,
         "frames": 30
       },
-      "id": "4e3aba33-2fca-4a02-a33f-a53d551ccad1"
-    },
-    {
-      "command": "EVENT_OVERLAY_SHOW",
-      "args": {
-        "color": "black",
-        "x": 0,
-        "y": 9,
-        "__collapse": false
-      },
-      "id": "79ad4864-4509-4a44-b2ec-7539f8e4928a"
-    },
-    {
-      "command": "EVENT_WAIT",
-      "args": {
-        "time": 0.5,
-        "frames": 30
-      },
       "id": "c2da34eb-2cee-4c2e-a6b0-74c1cc2cbb34"
     },
     {

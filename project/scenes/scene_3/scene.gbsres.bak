@@ -282,7 +282,7 @@
               "operator": "==",
               "comparator": 1,
               "__collapseElse": true,
-              "__collapse": true,
+              "__collapse": false,
               "condition": {
                 "type": "eq",
                 "valueA": {
@@ -296,7 +296,35 @@
               }
             },
             "children": {
-              "true": [],
+              "true": [
+                {
+                  "command": "EVENT_TEXT",
+                  "args": {
+                    "text": [
+                      "The multiplayer mode\nof this game is...",
+                      "Maybe coming someday...",
+                      "No promises....."
+                    ],
+                    "__section": "text",
+                    "avatarId": "",
+                    "minHeight": 4,
+                    "maxHeight": 7,
+                    "textX": 1,
+                    "textY": 1,
+                    "textHeight": 5,
+                    "position": "bottom",
+                    "clearPrevious": true,
+                    "showFrame": "true",
+                    "speedIn": -1,
+                    "speedOut": -1,
+                    "closeWhen": "key",
+                    "closeButton": "a",
+                    "closeDelayTime": 0.5,
+                    "closeDelayFrames": 30
+                  },
+                  "id": "ba5405be-3ee6-404c-a682-1e402bde5e4e"
+                }
+              ],
               "false": []
             },
             "id": "deff1e8e-7986-4651-a5a8-3f56ec8f1f50"

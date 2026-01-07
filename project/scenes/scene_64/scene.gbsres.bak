@@ -262,6 +262,11 @@
         "false": []
       },
       "id": "4474c402-dd7a-4f56-8e7f-c2740a2f7149"
+    },
+    {
+      "command": "EVENT_MUSIC_STOP",
+      "args": {},
+      "id": "45fbd5fc-6610-4ec7-8fc9-0441f64c0dd5"
     }
   ],
   "playerHit1Script": [],

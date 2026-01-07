@@ -141,7 +141,7 @@
                   "command": "EVENT_CHOICE",
                   "args": {
                     "variable": "L1",
-                    "trueText": "I'll vote for Dhilly",
+                    "trueText": "I'll vote Dhilly",
                     "falseText": "I'll hug you"
                   },
                   "id": "dd4d5267-efe9-49e7-96fd-e017997cccf7"

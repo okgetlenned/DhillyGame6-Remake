@@ -26,7 +26,7 @@
           "type": "not",
           "value": {
             "type": "variable",
-            "value": "L0"
+            "value": "L1"
           }
         },
         "__collapseElse": false

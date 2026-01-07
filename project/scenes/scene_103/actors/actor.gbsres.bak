@@ -169,7 +169,7 @@
                     "operation": "add",
                     "other": "val",
                     "vectorY": "L0",
-                    "value": 4,
+                    "value": 5,
                     "minValue": "0",
                     "maxValue": "32767",
                     "clamp": false

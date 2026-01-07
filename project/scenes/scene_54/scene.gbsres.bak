@@ -175,7 +175,7 @@
                         "args": {
                           "text": [
                             "By listening to Sara\ntalk about the old\nuniverse,",
-                            "you broke laws 1, 4 and 19."
+                            "you broke laws 1, 4 and\n19."
                           ],
                           "__section": "text",
                           "avatarId": "",

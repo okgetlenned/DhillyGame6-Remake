@@ -20,7 +20,7 @@
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "You booted up\nthe computer, it runs\nMacOS 14 Sonoma."
+          "You booted up\nthe computer."
         ],
         "__section": "text",
         "avatarId": "",

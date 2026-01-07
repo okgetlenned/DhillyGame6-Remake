@@ -1,21 +1,21 @@
 {
   "_resourceType": "trigger",
-  "id": "d54c73ac-88e7-4652-a743-6b7a2dd496fb",
+  "id": "53db0203-e6b0-4675-ae9f-4dfbee7b3aab",
   "name": "",
   "prefabId": "",
-  "x": 70,
-  "y": 40,
-  "symbol": "trigger_122",
+  "x": 83,
+  "y": 30,
+  "symbol": "trigger_123",
   "prefabScriptOverrides": {},
-  "width": 8,
-  "height": 6,
+  "width": 4,
+  "height": 1,
   "script": [
     {
       "command": "EVENT_IF",
       "args": {
         "condition": {
           "type": "variable",
-          "value": "17"
+          "value": "25"
         },
         "__collapseElse": true
       },
@@ -28,7 +28,7 @@
                 "type": "not",
                 "value": {
                   "type": "variable",
-                  "value": "27"
+                  "value": "L0"
                 }
               },
               "__collapseElse": true
@@ -36,54 +36,29 @@
             "children": {
               "true": [
                 {
-                  "command": "EVENT_TEXT",
-                  "args": {
-                    "text": [
-                      "You're doing that too\nmuch! Please try again\nlater!",
-                      "(You broke the\nbreathing rate limit, a\nviolation of Law 20!)"
-                    ],
-                    "__section": "text",
-                    "avatarId": "",
-                    "minHeight": 4,
-                    "maxHeight": 7,
-                    "textX": 1,
-                    "textY": 1,
-                    "textHeight": 5,
-                    "position": "bottom",
-                    "clearPrevious": true,
-                    "showFrame": "true",
-                    "speedIn": -1,
-                    "speedOut": -1,
-                    "closeWhen": "key",
-                    "closeButton": "a",
-                    "closeDelayTime": 0.5,
-                    "closeDelayFrames": 30
-                  },
-                  "id": "68d84e1a-1960-4a0d-b74c-903e7075cb7d"
-                },
-                {
                   "command": "EVENT_SET_VALUE",
                   "args": {
-                    "variable": "27",
+                    "variable": "L0",
                     "value": {
                       "type": "true"
-                    },
-                    "__collapse": false
+                    }
                   },
-                  "id": "0617e4fe-18c7-44ed-910b-1a61e67faf2d"
+                  "id": "86f1f8d4-ee20-4933-a54b-369c03345de2"
                 },
                 {
                   "command": "EVENT_INC_VALUE",
                   "args": {
                     "variable": "18"
                   },
-                  "id": "192b317f-4a15-48aa-8f7d-9bdcd8d0d4e1"
+                  "id": "36f54776-0ff9-4366-911b-d91b8aa4c48e"
                 },
                 {
                   "command": "EVENT_TEXT",
                   "args": {
                     "text": [
-                      "Currently broken:\n$18$/20."
+                      "You're doing that too\nmuch, please try again\nlater.",
+                      "...By reaching the\nbreathing rate limit, you\nbroke law 20.",
+                      "Laws broken: $18$/20"
                     ],
                     "__section": "text",
                     "avatarId": "",
@@ -102,17 +77,17 @@
                     "closeDelayTime": 0.5,
                     "closeDelayFrames": 30
                   },
-                  "id": "93a651c2-a86b-401c-a093-bee2e4ff8cf0"
+                  "id": "7cabe54a-705e-4ab2-aa2f-9e3de384239f"
                 }
               ],
               "false": []
             },
-            "id": "638a0228-f637-4099-a1b6-1a272df17daa"
+            "id": "b37486f1-ca98-4e29-9f6c-b7cad5349cc7"
           }
         ],
         "false": []
       },
-      "id": "9ded70bd-f4e6-490c-b291-2adcda2c3a59"
+      "id": "a19598a6-cff6-4daa-aa88-42c0e9a05d09"
     }
   ],
   "leaveScript": [],

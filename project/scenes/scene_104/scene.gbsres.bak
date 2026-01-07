@@ -41,6 +41,46 @@
         "speed": 0.125
       },
       "id": "5d5222c2-2600-488a-8c6e-2d194a02be56"
+    },
+    {
+      "command": "EVENT_IF",
+      "args": {
+        "condition": {
+          "type": "eq",
+          "valueA": {
+            "type": "variable",
+            "value": "18"
+          },
+          "valueB": {
+            "type": "number",
+            "value": 20
+          }
+        },
+        "__collapseElse": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_SWITCH_SCENE",
+            "args": {
+              "sceneId": "a6519015-cb6a-4166-82dc-8092571587f6",
+              "x": {
+                "type": "number",
+                "value": 0
+              },
+              "y": {
+                "type": "number",
+                "value": 0
+              },
+              "direction": "",
+              "fadeSpeed": "2"
+            },
+            "id": "d7a756bd-c559-4f47-8472-11ea5ae4f204"
+          }
+        ],
+        "false": []
+      },
+      "id": "8c03a605-97b9-4830-b481-136960dd989f"
     }
   ],
   "playerHit1Script": [],

@@ -82,8 +82,7 @@
                   "command": "EVENT_TEXT",
                   "args": {
                     "text": [
-                      "Support for Game Boy\nand Super Game Boy\ndevices incomplete.",
-                      "Please use a Game Boy\nColor or Advance\ndevice for testing.",
+                      "Support for Game Boy\nand Super Game Boy\ndevices is limited.",
                       "If you are using an\nemulator, configure it\nto emulate a color\nsystem."
                     ],
                     "avatarId": ""

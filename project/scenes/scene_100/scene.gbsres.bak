@@ -43,7 +43,7 @@
             "command": "EVENT_TEXT",
             "args": {
               "text": [
-                "Viewing DhillyHub without\nbeing watched ins in \nviolation of Law 11.",
+                "Viewing DhillyHub without\nbeing watched is in \nviolation of Law 11.",
                 "Laws broken:\n$18$"
               ],
               "__section": "text",
