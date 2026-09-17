@@ -53,15 +53,22 @@
                 "value": 8
               },
               "moveType": "diagonal",
-              "useCollisions": false
+              "useCollisions": false,
+              "collideWith": []
             },
             "id": "74d8aa53-b7c7-4c16-ba4a-f8f3608a7378"
           },
           {
             "command": "EVENT_WAIT",
             "args": {
-              "time": 0.5,
-              "frames": 30
+              "time": {
+                "type": "number",
+                "value": 0.5
+              },
+              "frames": {
+                "type": "number",
+                "value": 30
+              }
             },
             "id": "dcfdc942-35a6-4691-a9c2-831250e329ff"
           },

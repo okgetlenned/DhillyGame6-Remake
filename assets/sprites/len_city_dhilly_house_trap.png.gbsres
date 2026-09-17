@@ -1,0 +1,207 @@
+{
+  "_resourceType": "sprite",
+  "id": "9c0e09f4-d2cf-44ac-8642-bf5de7063f28",
+  "name": "len_city_dhilly_house_trap",
+  "symbol": "sprite_square_full_hitbox_c_2",
+  "states": [
+    {
+      "id": "9fa4cf06-d1d2-411e-b731-8ee7fa2c486c",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "a44e01e7-63fa-48de-af2b-9a75329f5d86",
+          "frames": [
+            {
+              "id": "eae54b72-5148-4e26-91df-9e8365392a52",
+              "tiles": [
+                {
+                  "id": "639a67d5-56c4-4b94-9fed-abc074a0ea11",
+                  "x": -8,
+                  "y": 16,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "d938bad8-6bd4-464a-9d0d-b2c5cb9b54ed",
+                  "x": 8,
+                  "y": -3,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "6b5eb767-b2a8-4098-b08f-1f2519b3309d",
+                  "x": 0,
+                  "y": 16,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "5738279c-3172-4348-a62e-8407f3c1f392",
+                  "x": 16,
+                  "y": 16,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "fdc4b635-22f3-44ab-9548-2f102982ad15",
+                  "x": 16,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "0241a6c1-32b8-4453-80cb-4a0dc17f53ea",
+                  "x": 1,
+                  "y": -3,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "9a88685d-5f87-43e7-8be6-73ea0671d511",
+                  "x": 8,
+                  "y": 16,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "96d0e467-4262-4b6a-a966-d8c80ccc53cd",
+                  "x": -8,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "66ca162b-d2c9-4f26-8d79-225c44748bab",
+          "frames": [
+            {
+              "id": "00b14331-b901-4ea9-97fd-22224dfe5e3b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ba61c47b-5c17-47fe-a87e-406b5163c84a",
+          "frames": [
+            {
+              "id": "81b5aca3-3601-4a06-a4ed-5d5c04f00f7c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "30029639-d8d6-4050-b91d-ac289a020471",
+          "frames": [
+            {
+              "id": "fa3a8293-a35e-4b97-8869-a06082109dbd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e92f3b96-0d8e-4cf0-b3a8-fe6501649126",
+          "frames": [
+            {
+              "id": "e09894f9-440a-45e8-ae10-23fd4cb2fb3c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "10e2718e-dc87-4630-bfaa-d308f126b878",
+          "frames": [
+            {
+              "id": "7b00a4d5-32f0-46f4-bc01-c4e57541559a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3cd65fe4-5b9e-4529-96d4-1582889e46fc",
+          "frames": [
+            {
+              "id": "b18da9b8-1592-4d07-9e23-883d8528d2a8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "00e49cb5-4ca6-4759-b333-8aea217d02cc",
+          "frames": [
+            {
+              "id": "448281b9-4ff6-40a3-8875-259ead84205b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 3,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 0,
+  "boundsHeight": 0,
+  "animSpeed": 15,
+  "filename": "len_city_dhilly_house_trap.png",
+  "width": 32,
+  "height": 32,
+  "checksum": "3fe12bc1dda5f4035040f52d705341eccaa05f3b"
+}

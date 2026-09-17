@@ -5,6 +5,7 @@
   "symbol": "actor_21",
   "prefabId": "",
   "name": "",
+  "coordinateType": "tiles",
   "x": 6,
   "y": 16,
   "frame": 0,
@@ -17,6 +18,7 @@
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "script": [
     {
@@ -41,7 +43,8 @@
         },
         "moveType": "horizontal",
         "useCollisions": false,
-        "units": "pixels"
+        "units": "pixels",
+        "collideWith": []
       },
       "id": "92f1f7bb-efbf-4392-b4de-83ef4c0c6033"
     },
@@ -59,7 +62,8 @@
         },
         "moveType": "horizontal",
         "useCollisions": false,
-        "units": "pixels"
+        "units": "pixels",
+        "collideWith": []
       },
       "id": "8520dd38-4e07-4c9c-9644-175a52da596e"
     },

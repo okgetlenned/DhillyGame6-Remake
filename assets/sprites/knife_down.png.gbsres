@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "15db1d10-0d8e-4c1d-a8d0-d9d3b0b07108",
+  "name": "knife_down",
+  "symbol": "sprite_blank_interactable_c",
+  "states": [
+    {
+      "id": "2f067424-8b5c-4f79-bc36-15b81d984794",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "2bab05be-c1a7-4c33-9ac2-6c93e5f25185",
+          "frames": [
+            {
+              "id": "b0e210d7-e2e9-4082-b26a-caf43e08cbef",
+              "tiles": [
+                {
+                  "id": "298c765b-a0f6-4cac-995d-18354b65b45c",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "1e0ce37d-797d-4b00-8a7f-76b84235ff23",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "06c4baed-614c-44bf-be3c-c44d73b44d1c",
+          "frames": [
+            {
+              "id": "ac6ee10b-1661-424c-aa80-a2ea003aafda",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2ad78c0a-dac8-4139-9eae-9c66d6221ca2",
+          "frames": [
+            {
+              "id": "3b3495c5-07f8-4330-8eb3-9656487165ec",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ff13671a-aabf-4324-958b-8b27367818d2",
+          "frames": [
+            {
+              "id": "f51549f2-1953-4520-889e-094e48b8ee8d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "afd8d434-f8b4-471b-832f-d6d9f53fcf4d",
+          "frames": [
+            {
+              "id": "4946e349-adec-41a5-9c2b-d44c46299fc2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b2c9eaa0-5ae0-456b-801e-5b44b6bd76d8",
+          "frames": [
+            {
+              "id": "d8855c1e-f6e8-43e1-a89f-a8bfbce12318",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c0786497-3307-4d78-a215-2482549496fc",
+          "frames": [
+            {
+              "id": "9542b326-db74-47aa-802c-5ffdeb53d98d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b8e2ba04-9871-4465-8e50-89bdef8a7acb",
+          "frames": [
+            {
+              "id": "d9421012-189b-4f87-862f-c6892691910d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "knife_down.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "86e6546a7884251e73ec84f20efcbb48d13a98f9"
+}

@@ -11,6 +11,7 @@
   "height": 18,
   "backgroundId": "8cbfb3e4-a61e-4b71-b0ea-5d4d6d313723",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
   "autoFadeSpeed": 1,
@@ -47,8 +48,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 1.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 1.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "9e82a076-89df-4af0-b6ed-02a498057e2d"
     },
@@ -62,8 +69,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.1,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.1
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "463e25b2-ac5c-4231-bafb-fcc05662b721"
     },
@@ -77,8 +90,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.1,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.1
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "feb5a7d5-e3cf-470d-938a-d5b3cb2bd90c"
     },

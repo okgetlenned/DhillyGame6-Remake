@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "49392571-fa3c-413c-bbff-360f8e5b6f05",
+  "name": "Area - Len City/lencity_dhillybuilding",
+  "symbol": "bg_lencity_trainstation_cop",
+  "tileColors": "04168+",
+  "filename": "Area - Len City/lencity_dhillybuilding.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

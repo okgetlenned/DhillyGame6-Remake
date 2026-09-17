@@ -5,6 +5,7 @@
   "symbol": "actor_6",
   "prefabId": "",
   "name": "",
+  "coordinateType": "tiles",
   "x": 25,
   "y": 50,
   "frame": 0,
@@ -17,6 +18,7 @@
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "script": [
     {
@@ -125,7 +127,8 @@
                       "value": 43
                     },
                     "moveType": "horizontal",
-                    "useCollisions": false
+                    "useCollisions": false,
+                    "collideWith": []
                   },
                   "id": "9e2f8347-eff1-4883-8541-cc9a7247dbcb"
                 },
@@ -142,7 +145,8 @@
                       "value": 43
                     },
                     "moveType": "horizontal",
-                    "useCollisions": false
+                    "useCollisions": false,
+                    "collideWith": []
                   },
                   "id": "cebea94a-ffb4-4334-ba9f-64e344061bee"
                 },
@@ -159,7 +163,8 @@
                       "value": 17
                     },
                     "moveType": "horizontal",
-                    "useCollisions": false
+                    "useCollisions": false,
+                    "collideWith": []
                   },
                   "id": "7c4c2944-b09f-4736-b8e9-0e2fb020618e"
                 },
@@ -308,7 +313,8 @@
                                   "value": 43
                                 },
                                 "moveType": "horizontal",
-                                "useCollisions": false
+                                "useCollisions": false,
+                                "collideWith": []
                               },
                               "id": "c38458c6-bd0f-44c7-9162-f98ebaf9c6ba"
                             },
@@ -325,7 +331,8 @@
                                   "value": 43
                                 },
                                 "moveType": "horizontal",
-                                "useCollisions": false
+                                "useCollisions": false,
+                                "collideWith": []
                               },
                               "id": "b68c0ca2-4451-4990-88f6-47b6a169395d"
                             },
@@ -342,7 +349,8 @@
                                   "value": 17
                                 },
                                 "moveType": "horizontal",
-                                "useCollisions": false
+                                "useCollisions": false,
+                                "collideWith": []
                               },
                               "id": "1fbe127e-fc40-4206-85e2-0a0f867c83fe"
                             },

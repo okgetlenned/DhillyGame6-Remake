@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "aeeaba14-434a-4059-be15-273ca0cd8e32",
+  "name": "Mikuddy",
+  "symbol": "sprite_cataa_copy",
+  "states": [
+    {
+      "id": "b3f4d3c3-2da0-48eb-8063-17ca25ebb9d7",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "ab481d83-45fe-414c-8eb2-8657885b38d3",
+          "frames": [
+            {
+              "id": "9bb64587-ed1e-4e63-8a0e-4ad9ec440340",
+              "tiles": [
+                {
+                  "id": "2af69692-f1bd-4979-b7d3-d8d69486bb9f",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "f85b59ef-f74c-4a2d-b255-4462f8d67047",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c43577bf-061f-453b-8ff5-47a5e5f213ee",
+          "frames": [
+            {
+              "id": "289451f2-ab0a-434d-8f0d-fd05e3a334d8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07d42d18-020d-4dd6-be99-32a4179a323e",
+          "frames": [
+            {
+              "id": "f94fb344-db91-48ab-85ce-f670eb7b5f21",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "03d81260-1e03-4247-bd21-fb65dcbc10bc",
+          "frames": [
+            {
+              "id": "c25775c9-c5f2-437a-9e10-1f33b5ec7a51",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8dbce950-239b-455a-828f-cf9b1f93751b",
+          "frames": [
+            {
+              "id": "567180c8-88c3-4b76-a492-fbb75b9e7640",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3a1440f0-3573-426a-a85f-ac2c2a578f87",
+          "frames": [
+            {
+              "id": "f8618840-4afb-4a3c-b8ce-ba47acdec213",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fc4fce8b-d7ef-4c29-9aab-9596c9aafa5a",
+          "frames": [
+            {
+              "id": "fc995f0e-bd0d-431d-b752-6dd746367992",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7de8222a-a409-481a-b674-332ba101d43e",
+          "frames": [
+            {
+              "id": "f61bc27f-a5b9-428f-b6d3-3b2abdeed841",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Mikuddy.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "075e905650edd468ec8f891475a649a5c2d1809e"
+}

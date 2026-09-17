@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "19e8573f-ccb7-4418-9a08-43d4ab5d4336",
+  "name": "square_jetpack",
+  "symbol": "sprite_square_full_hitbox_c_4",
+  "states": [
+    {
+      "id": "d19fc83a-78a7-42a6-b08a-2e41bac542d0",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "f6475ae8-7c8e-45b3-a075-4b85adc1f9a3",
+          "frames": [
+            {
+              "id": "ab1c3474-9f07-43e1-b07c-6c309bcccfa4",
+              "tiles": [
+                {
+                  "id": "2e9695cf-291b-4aa9-bdce-7c6765c92687",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "25af773c-5ca9-4712-b015-6dcd717ef685",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "678c14ea-4fc2-4422-b0ff-8e8318f90706",
+          "frames": [
+            {
+              "id": "a5d9194e-17a7-42b5-8cb4-576307133d37",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a44405a7-ac83-4723-8078-50046c2704ba",
+          "frames": [
+            {
+              "id": "e4ffe3c8-dbd8-4869-bdde-f1ed5077bff5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f3b64b8c-504b-4b48-8810-dd36eb619db9",
+          "frames": [
+            {
+              "id": "c631c45b-bdaf-46aa-88e7-5404667e5d82",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3ca4211d-a270-41e7-9dfa-431eb3c1794f",
+          "frames": [
+            {
+              "id": "ad2e88f2-0029-4f18-a0b2-dc5845b21f91",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2230a4ea-ac76-4fdb-ae38-4288510cf65d",
+          "frames": [
+            {
+              "id": "64ca5f69-6abf-4611-be45-d1f9824e436c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0f32cee5-6a01-472b-a9d3-eab9cdd134c5",
+          "frames": [
+            {
+              "id": "c77df634-1fee-43b6-af76-dba137b4e290",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "69cf1586-2801-4fc8-84e4-f131924fabfa",
+          "frames": [
+            {
+              "id": "3edc42eb-c53e-4c8e-9ce9-ba22106cce45",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "square_jetpack.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "9535a378c9b062c76cedac2aaa649636508fe03a"
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e213fa5c-aaa7-4725-b211-4d8ae353b4b2",
+  "name": "unused assets/iceos_platformer1",
+  "symbol": "bg_iceos_desktop_copy_",
+  "tileColors": "04168+",
+  "filename": "unused assets/iceos_platformer1.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

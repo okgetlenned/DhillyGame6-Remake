@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "f8090e41-e535-4d1f-84f2-9559745b8cc6",
+  "name": "Area - Len City/Caves/cave_3",
+  "symbol": "bg_pixil_frame_0_30",
+  "tileColors": "04384+",
+  "filename": "Area - Len City/Caves/cave_3.png",
+  "width": 45,
+  "height": 20,
+  "imageWidth": 360,
+  "imageHeight": 160,
+  "autoColor": false
+}

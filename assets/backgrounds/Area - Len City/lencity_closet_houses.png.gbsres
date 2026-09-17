@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "3614977e-71e0-4833-872a-8b59009ede3a",
+  "name": "Area - Len City/lencity_closet_houses",
+  "symbol": "bg_lencityopen_copy_",
+  "tileColors": "0480+064+04b+069+047+066+044+062+043+03c+06!00c+06!05c+06!02c+066+03c+06!00c+06!05c+06!02c+066+03c+06!00c+06!05c+06!02c+063+04!062+03c+06!00c+06!05c+06!02c+066+03c+06!00c+06!05c+06!02c+066+03c+06!00c+06!05c+06!02c+066+03c+06!00c+06!05c+06!02c+066+03c+06!00c+06!05c+06!02c+066+03c+06!00c+06!05c+06!02c+066+03c+06!00c+04!05c+06!02c+066+03c+06!00c+06!05c+06!02c+0632+04!0641+04!0672+07!063+072+0633+07!062+075+067+073+0698+04!",
+  "filename": "Area - Len City/lencity_closet_houses.png",
+  "width": 57,
+  "height": 22,
+  "imageWidth": 456,
+  "imageHeight": 177,
+  "autoColor": false
+}

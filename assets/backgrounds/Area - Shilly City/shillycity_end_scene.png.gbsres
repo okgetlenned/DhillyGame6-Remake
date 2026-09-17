@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "dd91cd2b-38d1-44ac-a4fd-721148af1c03",
+  "name": "Area - Shilly City/shillycity_end_scene",
+  "symbol": "bg_shillycityopen_copy_1",
+  "tileColors": "049+0020+0412+0020+0412+0020+0412+0020+0412+0020+0412+0020+0412+0020+0412+0020+0412+0020+0412+0020+04969+00640+",
+  "filename": "Area - Shilly City/shillycity_end_scene.png",
+  "width": 50,
+  "height": 90,
+  "imageWidth": 400,
+  "imageHeight": 724,
+  "autoColor": false
+}

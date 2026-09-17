@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "b421900c-2d48-4744-93fd-ecb785dc395f",
+  "name": "Intro/intro_weather",
+  "symbol": "bg_pixil_frame_0_copy_copy_",
+  "tileColors": "0033+046+00e+046+00e+046+00e+046+00e+046+00e+046+00cb+",
+  "filename": "Intro/intro_weather.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

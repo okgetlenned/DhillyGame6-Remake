@@ -11,6 +11,7 @@
   "height": 25,
   "backgroundId": "1502fb87-15bf-4cd0-8a0e-75e60d207878",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "",
     "",
@@ -72,7 +73,11 @@
           "value": 21
         },
         "moveType": "vertical",
-        "useCollisions": true
+        "useCollisions": true,
+        "collideWith": [
+          "walls",
+          "actors"
+        ]
       },
       "id": "3bc2cada-8ed4-4ebf-bf53-d75d7c885db3"
     },
@@ -90,15 +95,22 @@
         },
         "moveType": "horizontal",
         "useCollisions": false,
-        "units": "pixels"
+        "units": "pixels",
+        "collideWith": []
       },
       "id": "4aa472ba-f2a2-4c37-bfdf-f99f8e026f8e"
     },
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "16c29a8b-d197-493f-b7c9-2b1b0eba63cf"
     },
@@ -120,8 +132,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 3,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 3
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "9cb07c09-6354-41b3-b2b1-b3c5d738dd0e"
     },
@@ -145,15 +163,22 @@
           "value": 9
         },
         "moveType": "horizontal",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "90f55dd5-6fb8-4394-892a-5c30f771ff5e"
     },
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 1,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 1
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "3181dabc-5b64-4cdd-b84a-34333dfe00c7"
     },
@@ -172,7 +197,7 @@
                 "Just one of us\ntoday? That's fine.",
                 "I am MzDesigns.",
                 "I make shows for\nDhilly!",
-                "This one, if you\naren't aware is\nabout why you should\nmove to Len City!",
+                "This one, if you\naren't aware is\nabout why you should\nmove to Dhilly City!",
                 "To help me, I brought\nmy friend Voti."
               ],
               "avatarId": "97dd1033-2bfd-4ad1-ae91-d0d4950b34a8"
@@ -190,7 +215,7 @@
                 "I am MzDesigns.",
                 "I make shows for\nDhilly!",
                 "This one, if you\naren't aware is\nabout why you should",
-                "move to Len City!",
+                "move to Dhilly City!",
                 "To help me, I brought\nmy friend Voti."
               ],
               "avatarId": "97dd1033-2bfd-4ad1-ae91-d0d4950b34a8"
@@ -204,8 +229,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "eb77abc0-9805-4c16-a666-93b342e4a5f1"
     },
@@ -229,7 +260,8 @@
           "value": 9
         },
         "moveType": "horizontal",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "31b91c9f-39e5-420b-97e4-795855100b65"
     },
@@ -317,7 +349,8 @@
           "value": 9
         },
         "moveType": "horizontal",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "370f757f-dcf7-4272-a175-f57fae1dfe26"
     },
@@ -412,7 +445,11 @@
           "value": 21
         },
         "moveType": "vertical",
-        "useCollisions": true
+        "useCollisions": true,
+        "collideWith": [
+          "walls",
+          "actors"
+        ]
       },
       "id": "eb9c692c-a0d4-4cab-8fc1-a0990c691a38"
     }

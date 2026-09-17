@@ -11,6 +11,7 @@
   "height": 18,
   "backgroundId": "21c62c5c-1d57-4eca-90f7-10fd46a7856e",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "",
     "",
@@ -32,8 +33,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 3,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 3
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "f045196f-3bd2-4659-98f8-69e3355786a1"
     },
@@ -99,8 +106,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 1,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 1
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "d5e1dca6-3b3c-4a57-8be4-f174225d7b8d"
     },
@@ -143,8 +156,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 1,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 1
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "cf7b8698-a9c3-4c0d-a941-73b0d63d190e"
     },
@@ -189,8 +208,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.3,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.3
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "86d0fdad-6ad9-481b-95bd-783c88c53720"
     },
@@ -235,8 +260,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.9,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.9
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "38c554e3-2410-4365-8c3a-7bc787d899c0"
     }

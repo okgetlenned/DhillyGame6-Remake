@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "23aa3550-f53a-4f29-9ec8-a68f09450649",
+  "name": "UI Screens/end",
+  "symbol": "bg_ui_screens_title_copy_",
+  "tileColors": "0481+032+0412+032+041c1+03c8+0464+",
+  "filename": "UI Screens/end.png",
+  "width": 20,
+  "height": 44,
+  "imageWidth": 160,
+  "imageHeight": 352,
+  "autoColor": false
+}

@@ -11,6 +11,7 @@
   "height": 57,
   "backgroundId": "9ea40185-30b9-42e7-9009-48a41cee8272",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "7a42bd96-4680-4592-89a4-421d5fae2ddb",
     "",
@@ -35,7 +36,8 @@
           "value": 42
         },
         "moveType": "horizontal",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "2e7e813e-479e-4c46-a432-0b109bd868ed"
     },
@@ -62,7 +64,8 @@
           "value": 29
         },
         "moveType": "horizontal",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "380be75a-7d48-40ec-a55b-891e4d133563"
     },
@@ -101,7 +104,8 @@
           "value": 11
         },
         "moveType": "horizontal",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "24e00350-a0de-4ff9-bfaf-6fb63f3f3a2f"
     },

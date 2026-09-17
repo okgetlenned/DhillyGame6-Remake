@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "8a536057-8dc5-4a50-8d24-3e036d3510be",
+  "name": "Area - Len City/law",
+  "symbol": "bg_area_len_city_eve_house_",
+  "tileColors": "046b+032+0412+032+04e7+",
+  "filename": "Area - Len City/law.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

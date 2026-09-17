@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "0160fb20-adad-48ac-b64b-556c803c271e",
+  "name": "Area - Len City/lencity_trainstation",
+  "symbol": "bg_lencity_trainstation",
+  "tileColors": "041b0+",
+  "filename": "Area - Len City/lencity_trainstation.png",
+  "width": 22,
+  "height": 18,
+  "imageWidth": 176,
+  "imageHeight": 144,
+  "autoColor": false
+}

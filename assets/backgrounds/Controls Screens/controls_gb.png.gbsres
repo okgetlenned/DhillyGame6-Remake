@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "10b7dc9e-6cf9-4466-88cb-db79a2c81247",
+  "name": "Controls Screens/controls_gb",
+  "symbol": "bg_controls_mobile_copy_0",
+  "tileColors": "06168+",
+  "filename": "Controls Screens/controls_gb.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

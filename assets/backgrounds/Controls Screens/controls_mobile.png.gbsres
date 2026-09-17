@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "ac4048e3-1031-4282-9ef0-b3d4c2a03f54",
+  "name": "Controls Screens/controls_mobile",
+  "symbol": "bg_options_copy_",
+  "tileColors": "0015+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+0029+",
+  "filename": "Controls Screens/controls_mobile.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

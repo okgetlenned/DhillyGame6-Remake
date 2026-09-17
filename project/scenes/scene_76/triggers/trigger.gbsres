@@ -29,8 +29,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 2,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 2
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "ab08f0de-d1e9-4ecf-8c25-40956d342c71"
     },
@@ -44,8 +50,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "a3f74155-c45f-4262-8e0a-ab3181bf604c"
     },
@@ -221,8 +233,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "484c5221-c493-4ac4-889b-4efb09bcba61"
     },
@@ -238,8 +256,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "226d49a9-22d2-498e-ad02-97575e382caf"
     },
@@ -255,8 +279,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "64d7bc2b-caa0-47ff-923a-11f6420fd124"
     },
@@ -272,8 +302,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "7a3013b7-50b7-49cb-a0dd-788f5c268835"
     },
@@ -289,8 +325,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "ff1ec571-e243-4b9b-b87d-a15cded7d13f"
     },
@@ -306,8 +348,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "1948217a-75a4-4742-8586-e81e0d636f6b"
     },
@@ -323,8 +371,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "fefd17e2-1c1e-424b-a359-2f6071dcd548"
     },
@@ -340,8 +394,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "c8e8ac9d-725c-4bc5-af88-983dd7ff855a"
     },
@@ -357,8 +417,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "68bf7c75-0f4e-4d07-9dc7-245f0f717b6d"
     },
@@ -375,8 +441,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "e4be23c2-8b3a-456a-b798-7919959982f0"
     },
@@ -393,8 +465,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "c2da34eb-2cee-4c2e-a6b0-74c1cc2cbb34"
     },
@@ -411,8 +489,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 0.5,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "2053af64-50b0-4e76-9e7b-d438fc9e703d"
     },

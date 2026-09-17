@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "5feeff4d-6f09-492d-8b18-bdfce2d29be2",
+  "name": "UI Screens/options",
+  "symbol": "bg_title_copy_0",
+  "tileColors": "04168+",
+  "filename": "UI Screens/options.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

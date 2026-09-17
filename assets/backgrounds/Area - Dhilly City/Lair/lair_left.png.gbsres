@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "b90a662c-3e0f-4ad6-9ff0-cc70650de503",
+  "name": "Area - Dhilly City/Lair/lair_left",
+  "symbol": "bg_area_dhilly_city_lair_la",
+  "tileColors": "0478+007+042+0047+04a0+",
+  "filename": "Area - Dhilly City/Lair/lair_left.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}

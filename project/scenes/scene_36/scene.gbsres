@@ -11,6 +11,7 @@
   "height": 75,
   "backgroundId": "41a5eece-6041-4e5c-b446-4ac1151fe17f",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "7a42bd96-4680-4592-89a4-421d5fae2ddb",
     "212e8c21-5496-4040-ba29-74bba8eb1ff6",

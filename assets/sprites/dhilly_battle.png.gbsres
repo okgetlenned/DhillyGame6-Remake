@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "6acc65f6-5878-446b-afe5-2cb4e8a9d7ae",
+  "name": "dhilly_battle",
+  "symbol": "sprite_dhilly_bridge_intera",
+  "states": [
+    {
+      "id": "cfa8ba9d-c8f4-45c1-87f8-be0ea7a55d1b",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "410ae871-090b-404a-9683-987fd984ba2f",
+          "frames": [
+            {
+              "id": "a108cb3b-f330-473f-ae21-02caf9d23f5d",
+              "tiles": [
+                {
+                  "id": "8c92e12d-e9c9-4520-931b-ff6f971d2bae",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "29698fe3-3cab-4538-8fab-f70c0e78ddc7",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0f602b02-1380-40e2-b3fc-fdedbdf13629",
+          "frames": [
+            {
+              "id": "21584d81-4f25-42ac-ada5-a2340baaa008",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3db0631c-2084-4e67-8702-06caecd92c0f",
+          "frames": [
+            {
+              "id": "0172ac11-b891-4377-900b-cba4e60d6420",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "de396154-6245-43cd-ba3c-70fb81e3bfc0",
+          "frames": [
+            {
+              "id": "b829b0eb-6be6-4166-a54c-3899fe68d5a3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fd993314-816b-49c6-8fcf-002435bb2077",
+          "frames": [
+            {
+              "id": "e9c37628-1919-410f-a577-38c936fdc1f6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "99ed8e3d-00f1-4956-bfa8-0899bd3f3d20",
+          "frames": [
+            {
+              "id": "593a8412-e259-4d3c-a765-d679b57e66f2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "827c338e-a711-4923-bb09-9de7b7daa52c",
+          "frames": [
+            {
+              "id": "51c6f281-c937-4b33-8941-c2c887adffef",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c26ad9c2-51f9-4a11-bec5-20269a128694",
+          "frames": [
+            {
+              "id": "f772eb94-2bbb-4bd6-b468-6c6f278c4f67",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "dhilly_battle.png",
+  "width": 31,
+  "height": 16,
+  "checksum": "0a24e56071434295bc1fdfc6ec0f294832aca2c4"
+}

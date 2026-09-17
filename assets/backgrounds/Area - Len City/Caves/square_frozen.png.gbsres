@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "a9cc33ef-b391-4157-9547-67d74d9092f9",
+  "name": "Area - Len City/Caves/square_frozen",
+  "symbol": "bg_pixil_frame_0_23",
+  "tileColors": "04149+072+049+0714+",
+  "filename": "Area - Len City/Caves/square_frozen.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

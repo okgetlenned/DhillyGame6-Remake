@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "c1e01098-2cdd-4033-bca6-14538b84188f",
+  "name": "Area - Dhilly City/road_scene",
+  "symbol": "bg_shillycityopen_copy_0",
+  "tileColors": "041f4+",
+  "filename": "Area - Dhilly City/road_scene.png",
+  "width": 20,
+  "height": 25,
+  "imageWidth": 160,
+  "imageHeight": 206,
+  "autoColor": false
+}

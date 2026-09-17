@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "41a5eece-6041-4e5c-b446-4ac1151fe17f",
+  "name": "Intro/intro_dhilly_5_level",
+  "symbol": "bg_intro_scenary_copy_",
+  "tileColors": "045dc+",
+  "filename": "Intro/intro_dhilly_5_level.png",
+  "width": 20,
+  "height": 75,
+  "imageWidth": 160,
+  "imageHeight": 600,
+  "autoColor": false
+}

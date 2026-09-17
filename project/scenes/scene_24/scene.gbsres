@@ -11,6 +11,7 @@
   "height": 18,
   "backgroundId": "a9cc33ef-b391-4157-9547-67d74d9092f9",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "",
     "",
@@ -29,8 +30,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 3,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 3
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "42a485ec-fd03-4971-bffe-b0c2992bd04c"
     },
@@ -48,8 +55,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 2,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 2
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "78d1d478-e3a7-4e9b-837f-52e374728e5e"
     },

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e66ae542-07fd-46ca-a337-e295c5533f1c",
+  "name": "Area - Len City/Caves/cave_ladder",
+  "symbol": "bg_init_copy_0",
+  "tileColors": "07168+0564+0264+04280+",
+  "filename": "Area - Len City/Caves/cave_ladder.png",
+  "width": 20,
+  "height": 60,
+  "imageWidth": 160,
+  "imageHeight": 480,
+  "autoColor": false
+}

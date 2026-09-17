@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "e61c9efa-06eb-4b21-98b9-3a500104c79a",
+  "name": "shilly",
+  "symbol": "sprite_dhilly_saveselect_co_1",
+  "states": [
+    {
+      "id": "6231fb23-2954-4f95-ae2b-1a86d0c6ecf0",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "7f53edf2-2aa9-46f0-9f43-20458527fe43",
+          "frames": [
+            {
+              "id": "29bed171-301a-4ae4-a74d-57f5a8672493",
+              "tiles": [
+                {
+                  "id": "d96a4043-4ca9-4694-b835-14b9db775dc5",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "8dfd55eb-4e02-40de-a42c-2b920383b751",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "83fd855e-e4c9-4e14-8531-e01a7b54ba1c",
+          "frames": [
+            {
+              "id": "c0eb1db2-7535-4bd5-bc16-794a6c5b606e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "194d4d8a-e849-43fe-9df4-7b018264f712",
+          "frames": [
+            {
+              "id": "04378962-d3e7-4e48-b473-b1afff896b31",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "af521bf3-75ee-46d4-a547-a09608820fd6",
+          "frames": [
+            {
+              "id": "a6159768-70cf-4f10-b214-16f933c9cd80",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1f3cda07-6133-4e5b-914c-257a471ebdf8",
+          "frames": [
+            {
+              "id": "f726deb9-0e10-454c-8add-38d036754cbc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8535409f-d7df-4c14-8493-5a2418e98635",
+          "frames": [
+            {
+              "id": "3a4bd752-83d8-44b7-a2e1-aca01577f58a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ab9b58ee-3199-424f-9559-4bdc1fa5c20a",
+          "frames": [
+            {
+              "id": "19b28263-b631-4a80-92f6-3ea25497261d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bfb8bfdc-b0be-4d3f-9d58-8e9a59641ece",
+          "frames": [
+            {
+              "id": "ae56e29b-b806-4530-81d4-bea8f05d7f8d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "shilly.png",
+  "width": 31,
+  "height": 16,
+  "checksum": "69c60fc8e04e608fc9f41382bddf6802008c30a5"
+}

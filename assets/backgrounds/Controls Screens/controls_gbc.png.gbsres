@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e4ec9bfb-11d5-444a-996e-7eef0e7e51b8",
+  "name": "Controls Screens/controls_gbc",
+  "symbol": "bg_controls_gb_copy_",
+  "tileColors": "0015+0112+002+0112+002+0112+002+0112+002+0112+002+0112+002+0112+002+0112+002+0112+002+0112+002+0112+002+0112+002+0112+002+0112+002+0112+002+0112+0015+",
+  "filename": "Controls Screens/controls_gbc.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

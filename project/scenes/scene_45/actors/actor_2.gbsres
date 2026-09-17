@@ -5,6 +5,7 @@
   "symbol": "actor_25",
   "prefabId": "",
   "name": "",
+  "coordinateType": "tiles",
   "x": 2,
   "y": 13,
   "frame": 0,
@@ -17,6 +18,7 @@
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "script": [
     {

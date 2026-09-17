@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "7957167e-ac0f-4729-b88e-67ab23efb0d0",
+  "name": "Controls Screens/controls_gba",
+  "symbol": "bg_controls_gbc_copy_",
+  "tileColors": "0115+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+0115+",
+  "filename": "Controls Screens/controls_gba.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

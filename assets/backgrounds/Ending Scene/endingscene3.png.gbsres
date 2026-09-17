@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "38d8f7f1-d5d7-4579-9320-0f02bda9af2a",
+  "name": "Ending Scene/endingscene3",
+  "symbol": "bg_endingscene3",
+  "tileColors": "04168+",
+  "filename": "Ending Scene/endingscene3.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

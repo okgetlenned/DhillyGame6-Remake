@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "f52fce5e-f681-4b20-8316-4f52dc141213",
+  "name": "Area - Dhilly City/Ben shapiros house",
+  "symbol": "bg_shillycity_sara_house_co",
+  "tileColors": "0415+0512+042+0512+042+0512+042+0512+04105+",
+  "filename": "Area - Dhilly City/Ben shapiros house.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

@@ -37,7 +37,8 @@
                 "property": "ypos"
               },
               "moveType": "horizontal",
-              "useCollisions": false
+              "useCollisions": false,
+              "collideWith": []
             },
             "id": "cc593621-44ae-470e-8ea9-feb36c2e65ea"
           },

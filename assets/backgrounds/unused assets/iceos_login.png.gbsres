@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "f95e4896-e930-4e6b-9782-fd668010bf2e",
+  "name": "unused assets/iceos_login",
+  "symbol": "bg_init_copy_1",
+  "tileColors": "04168+",
+  "filename": "unused assets/iceos_login.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

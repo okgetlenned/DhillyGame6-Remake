@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "21c62c5c-1d57-4eca-90f7-10fd46a7856e",
+  "name": "Area - Len City/Caves/square_frozen_future",
+  "symbol": "bg_square_frozen_future",
+  "tileColors": "04176+0016+",
+  "filename": "Area - Len City/Caves/square_frozen_future.png",
+  "width": 22,
+  "height": 18,
+  "imageWidth": 176,
+  "imageHeight": 144,
+  "autoColor": false
+}

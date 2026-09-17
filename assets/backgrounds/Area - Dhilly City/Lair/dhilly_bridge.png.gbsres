@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "3c0752cd-7207-49b9-af26-f1481e5f2797",
+  "name": "Area - Dhilly City/Lair/dhilly_bridge",
+  "symbol": "bg_dhilly_bridge",
+  "tileColors": "043e8+",
+  "filename": "Area - Dhilly City/Lair/dhilly_bridge.png",
+  "width": 20,
+  "height": 50,
+  "imageWidth": 160,
+  "imageHeight": 400,
+  "autoColor": false
+}

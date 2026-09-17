@@ -11,6 +11,7 @@
   "height": 18,
   "backgroundId": "fa3c8982-f458-4da7-bdfd-39ac22122554",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "",
     "",
@@ -20,6 +21,7 @@
   ],
   "spritePaletteIds": [],
   "autoFadeSpeed": 1,
+  "playerSpriteSheetId": "6f49b2b9-78f8-4c69-9085-4aacd3aa88e1",
   "script": [
     {
       "command": "EVENT_IF",
@@ -121,8 +123,14 @@
     {
       "command": "EVENT_WAIT",
       "args": {
-        "time": 2,
-        "frames": 30
+        "time": {
+          "type": "number",
+          "value": 2
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       },
       "id": "ed652653-bed1-45c4-9de3-c2d29379805a"
     },
@@ -172,6 +180,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "collisions": "",
-  "playerSpriteSheetId": "6f49b2b9-78f8-4c69-9085-4aacd3aa88e1"
+  "collisions": ""
 }

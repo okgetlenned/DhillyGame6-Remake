@@ -11,6 +11,7 @@
   "height": 18,
   "backgroundId": "8a536057-8dc5-4a50-8d24-3e036d3510be",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "",
     "",
@@ -20,10 +21,10 @@
   ],
   "spritePaletteIds": [],
   "autoFadeSpeed": 1,
+  "playerSpriteSheetId": "4c9d0c5e-0de4-4fa4-adbd-67d0a7b33f79",
   "script": [],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "collisions": "0f52+0010+0f4+0010+0f4+0010+0f9+002+0fd+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0fa+004+0f8+",
-  "playerSpriteSheetId": "4c9d0c5e-0de4-4fa4-adbd-67d0a7b33f79"
+  "collisions": "0f52+0010+0f4+0010+0f4+0010+0f9+002+0fd+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0fa+004+0f8+"
 }

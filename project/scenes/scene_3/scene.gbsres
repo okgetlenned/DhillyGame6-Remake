@@ -11,6 +11,7 @@
   "height": 18,
   "backgroundId": "5feeff4d-6f09-492d-8b18-bdfce2d29be2",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "",
     "",
@@ -94,7 +95,8 @@
                       "value": 1
                     },
                     "moveType": "vertical",
-                    "useCollisions": false
+                    "useCollisions": false,
+                    "collideWith": []
                   },
                   "id": "c9a1137d-3595-4c38-9b9d-12f1dd597b23"
                 }
@@ -147,7 +149,8 @@
                       "value": -1
                     },
                     "moveType": "vertical",
-                    "useCollisions": false
+                    "useCollisions": false,
+                    "collideWith": []
                   },
                   "id": "79f15f8c-6420-411c-bc8e-819734ea18dd"
                 }

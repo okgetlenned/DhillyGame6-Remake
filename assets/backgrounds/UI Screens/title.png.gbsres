@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "49553221-84d8-4a57-9d36-cfe748fcedd5",
+  "name": "UI Screens/title",
+  "symbol": "bg_title",
+  "tileColors": "0464+0210+014+0210+014+0210+014+0210+014+0210+004+0210+004+0210+004+0210+004+0210+004+0210+004+053c+",
+  "filename": "UI Screens/title.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

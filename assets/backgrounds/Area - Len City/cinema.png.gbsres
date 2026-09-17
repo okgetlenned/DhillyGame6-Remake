@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "4d14a952-5861-4562-9910-13a48aee9bba",
+  "name": "Area - Len City/cinema",
+  "symbol": "bg_cinema",
+  "tileColors": "041e0+",
+  "filename": "Area - Len City/cinema.png",
+  "width": 20,
+  "height": 24,
+  "imageWidth": 160,
+  "imageHeight": 192,
+  "autoColor": false
+}

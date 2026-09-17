@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "50cd756f-fb9a-486d-a6cc-9b87dc59b49c",
+  "name": "unused assets/announcer",
+  "symbol": "bg_announcer",
+  "tileColors": "06168+",
+  "filename": "unused assets/announcer.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

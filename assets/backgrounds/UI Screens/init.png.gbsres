@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "a9c79bb7-622d-4d24-8681-34bfe261d14f",
+  "name": "UI Screens/init",
+  "symbol": "bg_title_copy_1",
+  "tileColors": "04168+",
+  "filename": "UI Screens/init.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

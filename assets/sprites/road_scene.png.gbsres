@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "1e0c0b7a-4f8c-4b8b-bc3d-5c64a22df2ff",
+  "name": "road_scene",
+  "symbol": "sprite_road_scene",
+  "states": [
+    {
+      "id": "f29142d6-d71d-488f-807b-038f030a7c30",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "25e3c3c0-7b7e-4a57-826e-83d026fd1ffb",
+          "frames": [
+            {
+              "id": "a8c1af31-c99d-4960-9c19-dba23822f420",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "661139d8-0775-478f-9e9c-ea0cb531a9c8",
+          "frames": [
+            {
+              "id": "32997f17-badf-4ba0-a03b-308336ff6a07",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0b60eafb-ec99-40e0-aed8-722efde3e123",
+          "frames": [
+            {
+              "id": "ae6265af-d68d-4a90-a136-2571e4799630",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bfb192e9-775c-4195-8f3d-f5d97d8ecc20",
+          "frames": [
+            {
+              "id": "7fecfd9f-e145-48b1-ba53-c90ccce97bb4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "73731993-9472-4655-bf11-add2ecf80867",
+          "frames": [
+            {
+              "id": "ca280942-502d-4da2-a5e5-cf94a50fc387",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6a0ea3c6-9f05-4ce7-b298-f20f1fdd506c",
+          "frames": [
+            {
+              "id": "1d6c6d90-2aa0-4357-87f0-fd77fa3bea28",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "66caee58-e7c7-4006-98a8-7fa4577c0b65",
+          "frames": [
+            {
+              "id": "d5179d04-6046-4777-922a-f56df719b6ed",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "80443835-df6f-42da-a5a4-114f37566656",
+          "frames": [
+            {
+              "id": "91fda507-dc87-400e-a03c-9bc668b0f338",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "road_scene.png",
+  "width": 160,
+  "height": 206,
+  "checksum": "c57e5e0f034a396ccd1e08cf6b05836eda7dbaa8"
+}

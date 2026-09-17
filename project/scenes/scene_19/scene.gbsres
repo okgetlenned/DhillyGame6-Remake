@@ -11,6 +11,7 @@
   "height": 18,
   "backgroundId": "0160fb20-adad-48ac-b64b-556c803c271e",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "1fb5c806-9b12-46ee-bc15-7d06bb8f32ca",
     "",
@@ -48,7 +49,8 @@
           "value": 9
         },
         "moveType": "horizontal",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "5e339b41-06ea-4f34-be51-57892fb4a8a0"
     },
@@ -71,5 +73,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "collisions": ""
+  "collisions": "0f16+0016+0f42+00a8+0f8+00e+0f8+00e+0f8+00e+0f8+00e+0fe+002+0fe+"
 }

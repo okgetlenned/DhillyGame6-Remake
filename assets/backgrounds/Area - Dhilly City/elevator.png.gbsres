@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "7799db09-1d36-4ac2-93db-249e267c1108",
+  "name": "Area - Dhilly City/elevator",
+  "symbol": "bg_elevator",
+  "tileColors": "04168+",
+  "filename": "Area - Dhilly City/elevator.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

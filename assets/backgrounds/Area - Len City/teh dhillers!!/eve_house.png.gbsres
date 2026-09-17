@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "d7af1d28-29d9-450b-b4bc-ff4a18abfbca",
+  "name": "Area - Len City/teh dhillers!!/eve_house",
+  "symbol": "bg_area_len_city_lencity_dh",
+  "tileColors": "0467+002+012+022+04e+002+012+022+04e7+",
+  "filename": "Area - Len City/teh dhillers!!/eve_house.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "105797ea-fa1e-44b1-9ceb-085ae3f57ae7",
+  "name": "iceosapp_settings",
+  "symbol": "sprite_iceosapp_pltfrmr_cop",
+  "states": [
+    {
+      "id": "84a65dc3-f474-417f-9b78-41f981d4c781",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "1e0b0351-e115-42e2-8a75-84606236d1f9",
+          "frames": [
+            {
+              "id": "db9c785a-7b21-45c4-9f1d-77031f07b684",
+              "tiles": [
+                {
+                  "id": "f6367c3a-cfed-45b3-acd1-227d8bf1e1f5",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "781a6c8b-81c4-46e5-8cc9-be173a06fb63",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f8482e13-1337-4435-b911-7bf9dfcc1dc7",
+          "frames": [
+            {
+              "id": "d99c09e3-67cf-4d2d-bb61-524c0ae20422",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f9fdf6b9-f57f-4026-ac95-f56a3bf2610a",
+          "frames": [
+            {
+              "id": "8ca65eee-5b4d-482b-9375-59b220db9390",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7dda3fcf-b09c-4925-b458-baad56664e90",
+          "frames": [
+            {
+              "id": "aca646fd-6352-471b-a71d-4d3ece6cface",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b77cd57a-8f4b-4620-a769-e1455453d108",
+          "frames": [
+            {
+              "id": "c9a96433-b48f-44e2-b2fd-aae34d6415e7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6791ea7b-22c4-4b96-b09e-66e7bb82a9c5",
+          "frames": [
+            {
+              "id": "db4ff566-b21d-41fc-b83a-f2af1e1348f6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8855d7e0-b2a2-4332-86a0-69e1d8d8ac55",
+          "frames": [
+            {
+              "id": "0c50b1cd-1e9f-490f-bde5-91842d8ae279",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "66d74701-e162-4bc1-86cf-20880f703ac1",
+          "frames": [
+            {
+              "id": "a424d07e-acdd-4986-bc1a-e53c298ca7da",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "iceosapp_settings.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "9372429c737a774f2d44ea2101804025e8810966"
+}

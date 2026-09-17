@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "4a5fc5f3-ffe8-42c5-a789-e6f067e685cd",
+  "name": "dhilly_5_level",
+  "symbol": "sprite_dhilly_saveselect_co",
+  "states": [
+    {
+      "id": "b0bb4746-df13-4ef1-81de-271a3a316151",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "7e6a2827-cd94-4689-9d94-fff8983bb115",
+          "frames": [
+            {
+              "id": "6010ff23-68e7-45b0-9220-51cbb96cc160",
+              "tiles": [
+                {
+                  "id": "e00f0936-3a2e-41a6-b6ef-7611ce17dd54",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "43203411-d0ac-44b4-a783-324a2e32340e",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d62a6e83-065e-4540-955c-261eadc39d12",
+          "frames": [
+            {
+              "id": "2bd5c94c-0a5e-4249-bacf-069f079f65f7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "06fe9d86-7d5e-4160-9a78-71155df8fd0b",
+          "frames": [
+            {
+              "id": "bf6b67c3-26e7-4b15-a53c-34f704aa6dd5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9abf2247-4753-486a-a882-adf6e763b406",
+          "frames": [
+            {
+              "id": "4d87dfda-72f1-4f25-9a86-24e31f8d932f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5cd32ef7-4738-40fa-b50f-7b884de1f77e",
+          "frames": [
+            {
+              "id": "dfc4080a-be30-421a-8630-ea3fad331a0b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6de67065-c0bf-423d-b4a9-0ae1d19a8d59",
+          "frames": [
+            {
+              "id": "47f72c38-7c65-48ef-b2e2-c1f03117811e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7708b74d-099a-42a6-a090-bc4efcea4971",
+          "frames": [
+            {
+              "id": "8d3fc26e-e06f-4997-ba40-43ba1f4f0f2c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "45ba9683-c498-4af9-877c-43df125b9d19",
+          "frames": [
+            {
+              "id": "5de97204-1707-4113-a384-8daa01650586",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "dhilly_5_level.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "b2be23e679c8dcce82682b11a8390e7f0726ed51"
+}

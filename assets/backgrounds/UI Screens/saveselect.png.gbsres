@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e13cee90-b72d-4e8b-b74f-733673ad4809",
+  "name": "UI Screens/saveselect",
+  "symbol": "bg_title_copy_",
+  "tileColors": "04168+",
+  "filename": "UI Screens/saveselect.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

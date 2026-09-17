@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "34e466e7-9c19-4265-8b05-e8ea982f1858",
+  "name": "Area - Dhilly City/Lair/Flashback/wakeupsquare_2",
+  "symbol": "bg_dhilly_game_4",
+  "tileColors": "04168+",
+  "filename": "Area - Dhilly City/Lair/Flashback/wakeupsquare_2.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

@@ -34,7 +34,8 @@
           "value": 6
         },
         "moveType": "diagonal",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "4b85daed-3469-48c4-8cf4-53ae15403a79"
     },
@@ -51,7 +52,8 @@
           "value": 6
         },
         "moveType": "horizontal",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "c55b39d6-2ef4-4817-82f2-11406b97e18c"
     },

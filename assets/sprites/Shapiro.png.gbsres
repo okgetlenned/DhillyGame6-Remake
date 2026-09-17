@@ -1,0 +1,183 @@
+{
+  "_resourceType": "sprite",
+  "id": "8358b393-e5e5-4074-8d05-398d410d4a63",
+  "name": "Shapiro",
+  "symbol": "sprite_shapiro",
+  "states": [
+    {
+      "id": "b47f5e48-26e4-4024-882d-974f991dbb57",
+      "name": "",
+      "animationType": "multi",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "1150069e-8487-4d52-b688-fc15c3be5541",
+          "frames": [
+            {
+              "id": "efcb9b2b-471e-42e4-ace8-c854d9a68678",
+              "tiles": [
+                {
+                  "id": "6a76d4e9-53b2-47dd-a3ad-61936923e425",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 32,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "5aef911a-5ff8-42d9-8d54-06878848ff7f",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 40,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "14c99643-c20c-464d-b4b4-6c3711cccdcd",
+          "frames": [
+            {
+              "id": "61c6fba9-b9d2-40f8-804b-83730ca9dca5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3205a394-6e68-4cd2-b59f-b562ce5947d8",
+          "frames": [
+            {
+              "id": "4441d63e-310b-43e7-b76e-3e6ac8926a93",
+              "tiles": [
+                {
+                  "id": "d3e8aca0-29f6-4539-a51d-0fb75ffa7fc6",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "c5e8ed9e-1ecf-4800-8587-36986cf7e29c",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "951b066e-f5bf-4850-a4d6-bd358480d806",
+          "frames": [
+            {
+              "id": "bfdf9924-6c48-4928-bed7-d8cdaf6bf665",
+              "tiles": [
+                {
+                  "id": "dde18286-4337-4f0a-881a-8f259aad1a3b",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "83065d64-f837-456a-ac70-a0b78c19c286",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7646fcd2-1d74-4aa2-a395-040bf32b22e0",
+          "frames": [
+            {
+              "id": "ce4ec801-a4ed-4dcf-ae6e-3ca0235aff17",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7b6738b7-962e-4cc0-a428-b8e8ffd58085",
+          "frames": [
+            {
+              "id": "87f78efa-2e43-48b5-8049-b01a94174b31",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cd5fb0df-31c7-4394-9714-2dc5f7908c93",
+          "frames": [
+            {
+              "id": "c1466810-f18c-4cbf-b278-0ee177d9a3be",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0fbbb893-000a-4749-90a7-013663fd8d74",
+          "frames": [
+            {
+              "id": "b19b0cbc-791d-4c80-982e-d4193b1f9acd",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Shapiro.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "20c3529c357ebc89345456ab7f80d9211da2d80f"
+}

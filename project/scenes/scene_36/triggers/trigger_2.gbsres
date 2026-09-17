@@ -24,7 +24,8 @@
           "value": 15
         },
         "moveType": "horizontal",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "dafcc421-a9b3-4657-99dd-9055e72ac975"
     },

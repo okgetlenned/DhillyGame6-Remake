@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "9288c84b-124c-4ae8-a7f5-114141ecc553",
+  "name": "Area - Dhilly City/Lair/Flashback/fall_to_flashback",
+  "symbol": "bg_fall_to_shilly_area_copy",
+  "tileColors": "044b0+",
+  "filename": "Area - Dhilly City/Lair/Flashback/fall_to_flashback.png",
+  "width": 20,
+  "height": 60,
+  "imageWidth": 160,
+  "imageHeight": 480,
+  "autoColor": false
+}

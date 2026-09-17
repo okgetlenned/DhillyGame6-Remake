@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "a727371d-d4ba-427c-94de-ee23b6bf655c",
+  "name": "unused assets/iceos_desktop",
+  "symbol": "bg_iceos_login_2_copy_",
+  "tileColors": "04168+",
+  "filename": "unused assets/iceos_desktop.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

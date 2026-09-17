@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "c5ac42c1-bbca-45bc-af74-f42e6693d59e",
+  "name": "Sara",
+  "symbol": "sprite_cataa",
+  "states": [
+    {
+      "id": "b921185d-1e4e-45ab-81bc-ca11a7e219d6",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "c775c9a1-8079-4c8b-84fa-c7323aa27ea4",
+          "frames": [
+            {
+              "id": "6f61d11b-49e1-42f8-b374-5b7ca9af4626",
+              "tiles": [
+                {
+                  "id": "5a140d11-d3e8-4d16-aeeb-7572fb252a29",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "3f1b190f-c1c6-420c-802f-5cf37bb639b6",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2acb0100-a900-470a-ae21-62608367850c",
+          "frames": [
+            {
+              "id": "9cf5de06-19ad-4b7a-8640-645bad830158",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8afbb59a-b30c-4e4c-a777-ed8a0dc9128c",
+          "frames": [
+            {
+              "id": "d82985b0-2dbe-4a81-a880-04e1d64820c7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ef091f75-2ab4-436c-8b5b-c7c6187e4e15",
+          "frames": [
+            {
+              "id": "13665506-43ba-4294-b6df-16a1adb23d4b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c810b799-bd27-4da3-9e08-f2486f594b8d",
+          "frames": [
+            {
+              "id": "80259fee-2342-4f91-bf99-340674e10f57",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "140869f8-ee6a-4b8b-98b1-5f3c99195a8b",
+          "frames": [
+            {
+              "id": "af3e46b7-4910-4a17-b3bc-d9a01d5f1c81",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2f20ba32-e9a4-44b6-b55d-14eed0f9e14f",
+          "frames": [
+            {
+              "id": "0e5cfa92-8224-4e32-a314-11e37de6291d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8242965a-1012-427b-a6bb-a252ec55fc8b",
+          "frames": [
+            {
+              "id": "48c0f88a-5053-45a7-9417-d6139b3784c2",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Sara.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "429903a69eef8c6720189ed86e515891e1c7c12f"
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "fe85ee0d-e31e-4493-a0f4-6a5bd252ea35",
+  "name": "Controls Screens/controls_keyboard",
+  "symbol": "bg_controls_mobile_copy_",
+  "tileColors": "0015+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+002+0412+0015+",
+  "filename": "Controls Screens/controls_keyboard.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}
